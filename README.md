@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Shrik3sh
-- 👀 I’m interested in ... Data Analysis/Could Computing /Crypto /Investing
-- 🌱 I’m currently learning ... Python ,SQL, Excel,
+- 👀 I’m interested in ... Data Analysis --Could Computing --Crypto --Investing
+- 🌱 I’m currently learning ... Python -- SQL -- Excel,
 - 💞️ I’m looking to collaborate on/with ... Data Analysis any project
-                                         ...   Tech Support Projects
-                                        ...    Youtube
-                                       ...     SQL Projects 
-                                        ...    Excel
-                                        ...    PowerBI
+                                         --   Tech Support Projects
+                                        --    Youtube
+                                       --     SQL Projects 
+                                        --    Excel
+                                        --    PowerBI
                                         
 - 📫 How to reach me ... Email -- Shrikesh.mahabeer81@gmail.com
                          IG -- @SHRIKESHM
