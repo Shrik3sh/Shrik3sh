@@ -8,7 +8,7 @@
                                         --    Excel
                                         --    PowerBI
                                         
-- 📫 How to reach me ... <br>[Email](Shrikesh.mahabeer81@gmail.com) <br>
+- 📫 How to reach me ... <br>[Email](mailto:Shrikesh.mahabeer81@gmail.com) <br>
                          [LinkedIn](https://www.linkedin.com/in/shrikesh-mahabeer-48599775/)<br>
                          [SITE](https://shrikeshm.wordpress.com/)<br>
 <!---
