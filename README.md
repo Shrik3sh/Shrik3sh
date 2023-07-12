@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Shrik3sh
-- 👀 I’m interested in ... Data Analysis --Could Computing --Crypto --Investing
 - 🌱 I’m currently learning ... Python -- SQL -- Excel,
 - 💞️ I’m looking to collaborate on/with ... Data Analysis any project
                                          --   Tech Support Projects
